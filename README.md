@@ -1,4 +1,4 @@
-```markdown
+
 # Güçlü Şifre Oluşturucu
 
 Bu Python uygulaması, kullanıcıların belirttiği kriterlere göre rastgele güçlü şifreler oluşturur. 
