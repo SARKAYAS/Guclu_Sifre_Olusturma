@@ -63,9 +63,6 @@ Bu projeyi geliştirmek için katkıda bulunabilirsiniz:
 2. Geliştirmelerinizi gerçekleştirin.
 3. Pull Request gönderin.
 
-## Lisans
-
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 ---
 
