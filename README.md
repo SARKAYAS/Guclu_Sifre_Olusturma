@@ -67,8 +67,4 @@ Bu projeyi geliştirmek için katkıda bulunabilirsiniz:
 ---
 
 **Not:** Hiçbir karakter tipi seçilmediğinde şifre yalnızca küçük harflerden oluşur.
-```
 
-### Öneriler:
-1. **a.** Bu README dosyasına ekran görüntüsü veya terminal çıktısı eklemek ister misiniz?  
-2. **b.** Şifrelerin güvenlik tavsiyelerini (örneğin, kullanım süreleri veya saklanma yöntemleri) README'ye eklemek ister misiniz?
