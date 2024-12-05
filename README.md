@@ -1,7 +1,3 @@
-Aşağıda, bu Python programına uygun bir **README.md** dosyası oluşturulmuştur. 
-
-### README.md
-
 ```markdown
 # Güçlü Şifre Oluşturucu
 
